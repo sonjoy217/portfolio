@@ -61,9 +61,9 @@ The portfolio is deployed on **Vercel** and connected to this GitHub repository.
 
 ## Connect With Me
 
-* **GitHub:** https://github.com/sonjoy217
-* **LinkedIn:** https://linkedin.com/in/sonjoy217
-* **Portfolio:**https://sonjoy217.github.io/portfolio/
+* **GitHub:**  https://github.com/sonjoy217
+* **LinkedIn:**  https://linkedin.com/in/sonjoy217
+* Portfolio: https://sonjoy217.github.io/portfolio/
 
 ## Purpose
 
