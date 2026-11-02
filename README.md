@@ -6,7 +6,7 @@ This project showcases my **technical skills, academic background, projects, cer
 
 ## Live Portfolio
 
-**[Visit My Portfolio](sonjoy217.github.io/portfolio/)**
+**[Visit My Portfolio](https://sonjoy217.github.io/portfolio/)**
 
 ## About Me
 
@@ -57,13 +57,13 @@ sonjoy-portfolio/
 The portfolio is deployed on **Vercel** and connected to this GitHub repository.
 
 **Live Website:**
-sonjoy217.github.io/portfolio/
+(https://sonjoy217.github.io/portfolio/)
 
 ## Connect With Me
 
 * **GitHub:** https://github.com/sonjoy217
 * **LinkedIn:** https://linkedin.com/in/sonjoy217
-* **Portfolio:**sonjoy217.github.io/portfolio/
+* **Portfolio:**(https://sonjoy217.github.io/portfolio/)
 
 ## Purpose
 
